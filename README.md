@@ -31,7 +31,7 @@
    ```
    pip3 install pip -U
    pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
-   pip3 install -r requestments.txt
+   pip3 install -r requirements.txt
    ```
 
 4. 复制配置文件模板
